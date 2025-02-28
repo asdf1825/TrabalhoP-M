@@ -19,12 +19,12 @@ Capítulo 4: A Transformada-z
 
 📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 [Vídeos](https://www.youtube.com/watch?si=oIaKKL-rix-SMsC-&v=a4ilqPa6l34&feature=youtu.be)
 
-Definição da transformada-z bilateral e unilateral.
-Determinação da região de convergência (ROC) e suas implicações na estabilidade do sistema.
-Propriedades fundamentais da transformada-z.
-Cálculo da inversa da transformada-z.
-Representação de sistemas no domínio-z.
-Solução de equações de diferenças usando a transformada-z.
+- Definição da transformada-z bilateral e unilateral.
+- Determinação da região de convergência (ROC) e suas implicações na estabilidade do sistema.
+- Propriedades fundamentais da transformada-z.
+- Cálculo da inversa da transformada-z.
+- Representação de sistemas no domínio-z.
+- Solução de equações de diferenças usando a transformada-z.
 
 Capítulo 5: Transformada Discreta de Fourier (DFT)
 
