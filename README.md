@@ -1,4 +1,5 @@
 # TrabalhoP-M
+
 Digital Signal Processing using Python (Baseado no Livro Digital Signal Processing using MATLAB)
 
 Cada capítulo inclui:
@@ -70,6 +71,10 @@ Capítulo 12: Aplicações em Comunicações
 Modulação por Código de Pulso (PCM).
 PCM diferencial (DPCM) e PCM adaptativo (ADPCM).
 Modulação Delta (DM) e Modulação Delta Adaptativa (ADM).
+Codificação preditiva linear (LPC) aplicada à voz.
+Geração e detecção de sinais DTMF (Dual-tone Multifrequency).
+Aplicações de detecção de sinal em comunicações digitais e espectro expandido.
+
 Codificação preditiva linear (LPC) aplicada à voz.
 Geração e detecção de sinais DTMF (Dual-tone Multifrequency).
 Aplicações de detecção de sinal em comunicações digitais e espectro expandido.
