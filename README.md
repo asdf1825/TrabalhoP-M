@@ -17,7 +17,7 @@ Conteúdos
 
 Capítulo 4: A Transformada-z
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 Vídeos
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 [Vídeos](https://www.youtube.com/watch?si=oIaKKL-rix-SMsC-&v=a4ilqPa6l34&feature=youtu.be)
 
 Definição da transformada-z bilateral e unilateral.
 Determinação da região de convergência (ROC) e suas implicações na estabilidade do sistema.
@@ -28,7 +28,7 @@ Solução de equações de diferenças usando a transformada-z.
 
 Capítulo 5: Transformada Discreta de Fourier (DFT)
 
-📌 Notebook/Colab | 🎥 Vídeos
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1pqpXBGngvTrUIPifbly_0us5butGywbV) | 🎥 [Vídeos](https://www.youtube.com/watch?v=71WWCtYd7Lo)
 
 Introdução à Série de Fourier Discreta.
 Amostragem e reconstrução no domínio-z.
@@ -38,7 +38,7 @@ Implementação e otimização com a Transformada Rápida de Fourier (FFT).
 
 Capítulo 6: Implementação de Filtros Discretos no Tempo
 
-📌 Notebook/Colab | 🎥 Vídeos
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1YSYgBzgvCsSIP8gbxIAe7Oj6A9baZBbl) | 🎥 [Vídeos](https://www.youtube.com/watch?si=isnk3nL4hGkfX19D&v=MgyrrXGTsok&feature=youtu.be)
 
 Estruturas básicas de filtros digitais.
 Implementação de filtros IIR e FIR.
