@@ -17,7 +17,7 @@ Conteúdos
 
 Capítulo 4: A Transformada-z
 
-📌 [ Notebook/Colab ] (https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 Vídeos
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 Vídeos
 
 Definição da transformada-z bilateral e unilateral.
 Determinação da região de convergência (ROC) e suas implicações na estabilidade do sistema.
